@@ -9,3 +9,7 @@ bun run dev
 ```
 
 open http://localhost:3000
+
+Reference:
+
+<https://www.youtube.com/watch?v=qhwmTxhRdyQ&t=450s>
