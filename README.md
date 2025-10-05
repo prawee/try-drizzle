@@ -1,3 +1,8 @@
+First:
+```sh
+docker compose up -d
+```
+
 To install dependencies:
 ```sh
 bun install
