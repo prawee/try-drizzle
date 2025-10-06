@@ -3,6 +3,11 @@ First:
 docker compose up -d
 ```
 
+Database:
+```sh
+bun run db:generate:migration
+```
+
 To install dependencies:
 ```sh
 bun install
