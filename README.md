@@ -7,6 +7,7 @@ Database:
 ```sh
 bun run db:generate:migration
 bun run db:migrate
+bun run db:studio
 ```
 
 To install dependencies:
