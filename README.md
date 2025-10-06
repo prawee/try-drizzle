@@ -6,6 +6,7 @@ docker compose up -d
 Database:
 ```sh
 bun run db:generate:migration
+bun run db:migrate
 ```
 
 To install dependencies:
